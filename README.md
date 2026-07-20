@@ -4,7 +4,7 @@
 ### Languages I Know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![armkeil](https://img.shields.io/badge/armkeil-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=394049)
+![armkeil](https://img.shields.io/badge/armkeil-000000?style=for-the-badge&logo=armkeil&logoColor=6D80A5)
 
 ### Software and IDEs
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
