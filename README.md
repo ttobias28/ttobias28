@@ -1,5 +1,5 @@
 # Hi, I'm Teagan!😊
-**I am a student at Tennessee Technological Univserity studying Artificial Intelligence and Mathematics with a focus in Data Science and Statistics. I am passionate about integrating data science into the applied sciences like marine and environmental scienes, and am eager to learn new tools that aid those goals!**
+**I am a student at Tennessee Technological Univserity studying Artificial Intelligence and Mathematics with a focus in Data Science and Statistics. I am passionate about integrating data science into the applied sciences like marine and environmental sciences, and am eager to learn new tools that aid those goals!**
 
 ### Languages I Know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
