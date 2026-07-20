@@ -2,14 +2,13 @@
 
 ## About me!
 
-💻 I am a student at Tennessee Technological University studying **Artificial Intelligence and Mathemtaics with a focus in Data Science and Statistics**. I am passionate about integrating data science into the applied sciences like marine and environmental, and am eager to learn new tools that aid those goals!
+💻 I am a student at Tennessee Technological University studying **Artificial Intelligence and Mathematics with a focus in Data Science and Statistics**. I am passionate about integrating data science into the applied sciences like marine and environmental, and am eager to learn new tools that aid those goals!
 
 🌷 Outside of tech, I love keeping my **hands and mind busy**. Legos, puzzles, hiking, scuba diving, and baking & cooking are some of my favorite ways to unwind and stay **creative**.
 
 🦈 My biggest passion is **environmental conservation**. Protecting the oceans, mountains, and plains that make up our planet's wild, living fabric is what I'd love to support. At the heart of it all is a fierce commitment to keeping animals safe and healthy, and to speaking up for the rights and land of those who have no voice of their own.
 
-✈️ I am in **LOVE** with traveling! I've been to countries like Germany, Monaco, Belize, Canada, and more!! There is so much thrill in seeing the different cultures and lives that are all around us.
-
+✈️ I am in **LOVE** with traveling! I've been to countries like Germany, Monaco, Belize, Canada, and more. There is so much to see in the cultures and lives that surround us and so much to learn from others.
 
 
 ## Skills
